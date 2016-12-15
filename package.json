@@ -1,0 +1,11 @@
+{
+  "name": "phantomtool",
+  "version": "1.0.0",
+  "description": "A library that helps you write PhantomJS scripts more easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiaofan",
+  "license": "ISC"
+}
